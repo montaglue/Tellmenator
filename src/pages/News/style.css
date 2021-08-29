@@ -1,0 +1,23 @@
+.news-container {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    background-color: #ebdbb2;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px; 
+    border-radius: 24px;
+    min-height: 100px;
+}
+
+.news {
+    list-style: none;
+}
+
+.news li {
+    background: black;
+    padding: 10px;
+    border-radius: 24px;  
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
